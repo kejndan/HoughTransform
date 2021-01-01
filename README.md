@@ -11,3 +11,6 @@ Circle search has the following modifications:
 + Using the gradient direction to determine the line on which the center of the circle is located
 
 Ellipse search is realized paper: https://ieeexplore.ieee.org/document/1048464
+
+![](ExampleResults/example_1.png)
+![](ExampleResults/example_2.png)
